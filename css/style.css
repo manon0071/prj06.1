@@ -1,0 +1,162 @@
+body{
+	margin: 0;
+	padding: 0;
+   font-family: 'Baloo', cursive;
+background-color: #4A4A51;
+
+} 
+
+
+header{
+    background: #02CC83;
+    overflow: hidden;
+    padding: 15px 0 40px;
+}
+.container{
+    width: 1000px;
+    margin: 0 auto;
+
+}
+.logo{
+    width: 20%;
+    float: left;
+}
+.menu {
+    width: 80%;
+    float: left;
+    text-align: right;
+}
+
+.menu ul {
+    margin: 0;
+    padding: 0;
+
+}
+
+.menu ul li {
+        list-style: none;
+    display: inline-block;
+
+}
+
+.menu ul li a {
+    display: block;
+    color: #fff;
+    font-size: 12px;
+    text-transform: uppercase;
+    text-decoration: none;
+    padding-left: 20px;
+}
+.pricing-table-section {
+        background-color: #4A4A51;
+}
+
+.container {
+        width: 1000px;
+    margin: 0 auto;
+}
+
+.pricing-table {
+    box-shadow: 0 0 6px #000;
+    padding: 25px 15px;
+    overflow: hidden;
+    background: #fff;
+    transform: translateY(-30px);
+}
+
+.pricing-heading {
+    text-align: center;
+    overflow: hidden;
+}
+
+
+.pricing-heading h1{
+    margin-top: 0;
+    font-size: 35px;
+    color: #8f8f8f;
+}
+.price-box {
+        width: 33.33%;
+    float: left;
+    padding: 15px;
+    box-sizing: border-box;
+}
+
+.price-box ul{
+background: #cccccc;
+    margin: 0 auto;
+    text-align: center;
+    padding: 15px 0;
+}
+.price-box ul li{
+
+    list-style: none;
+    padding: 10px 0;
+    border-bottom: 1px solid #b1b1b1;
+    font-size: 20px;
+}
+.price-box ul li h2{
+        margin: 0;
+    text-transform: uppercase;
+    color: #5f5e5e;
+
+}
+
+.price-box ul li h1{
+    margin: 0;
+    font-size: 3em;
+    color: #505050;
+}
+
+.price-box ul li button {
+padding: 10px 40px;
+    color: #fff;
+    background: #02cc83;
+    border: 0;
+    box-shadow: 0 4px 5px #7b7b7b;
+    font-weight: 800;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+}
+
+
+.logo-section {
+    position: relative;
+    text-align: center;
+    padding: 30px 0 0 0;
+    overflow: hidden;
+}
+
+
+
+.logos {
+}
+
+.particular-logos {
+        width: 25%;
+    float: left;
+    padding: 20px;
+    box-sizing: border-box;
+}
+
+.particular-logos a{
+    display: inline-block;
+    transform: rotate(45deg);
+    background-color: #ffffff;
+    padding: 18px 86px 81px 18px;
+    border-radius: 5px;
+    margin: 0;
+
+}
+.particular-logos span{
+    position: absolute;
+    transform: rotate(-45deg);
+
+}
+.particular-logos img{
+
+   
+}
+
+
+
